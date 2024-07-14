@@ -1,0 +1,34 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Ahmed Ali",
+            "date": "2022-01-01",
+            "amount": 1000
+        },
+        {
+            "id": 2,
+            "name": "Aya Elsayed",
+            "date": "2022-01-02",
+            "amount": 2000
+        },
+        {
+            "id": 3,
+            "name": "Mina Adel",
+            "date": "2022-01-01",
+            "amount": 550
+        },
+        {
+            "id": 4,
+            "name": "Sarah Reda",
+            "date": "2022-01-01",
+            "amount": 500
+        },
+        {
+            "id": 5,
+            "name": "Mohamed Sayed",
+            "date": "2022-01-02",
+            "amount": 1300
+        }
+    ]
+}
